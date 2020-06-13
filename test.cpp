@@ -8,7 +8,7 @@ class Employee                    //Class Syntax
          cout<<"Employee Details like Name, Id, Salary"<<endl;
        }
   };
-int main()
+int main()   //
 {
   Employee emp;
   emp.employee_details();
